@@ -2,7 +2,7 @@
 "Data Augmentation for Emotion Detection in Small Imbalanced Text Data", to be presented at the 22nd IEEE International Conference on Machine Learning and Applications, 2023.
 Authors: Anna Koufakou, Diego Grisales, Ragy Costa de Jesus, Oscar Fox 
 
-Florida Gulf Coast University
+Florida Gulf Coast University, Fort Myers, Florida, USA
 
 
 #### The datasets we used in our paper are publicly available below:
@@ -13,5 +13,5 @@ Florida Gulf Coast University
 
 3. EmoEvent: dataset composed of tweets from the Twitter platform which exhibit different emotions in relation to various events. https://github.com/fmplaza/EmoEvent
 
-Questions: email akoufakou@fgcu.edu
+Contact: akoufakou@fgcu.edu
 
