@@ -10,7 +10,8 @@ Florida Gulf Coast University
 1. COVID-19 Survey: collected via survey in UK in lockdown April 2020. 2,500 participants wrote text responses and rated their emotions e.g. worry, anxiety, relaxation, etc. https://github.com/ben-aaron188/covid19worry
 
 2. WASSA: part of the WASSA 2021 Shared Task. Contains essays written after reading news articles related to harm to an individual, nature, etc. https://competitions.codalab.org/competitions/28713
-EmoEvent: dataset composed of tweets from the Twitter platform which exhibit different emotions in relation to various events. https://github.com/fmplaza/EmoEvent
+
+3. EmoEvent: dataset composed of tweets from the Twitter platform which exhibit different emotions in relation to various events. https://github.com/fmplaza/EmoEvent
 
 Questions: email akoufakou@fgcu.edu
 
