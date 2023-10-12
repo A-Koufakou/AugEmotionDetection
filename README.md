@@ -13,5 +13,4 @@ Florida Gulf Coast University, Fort Myers, Florida, USA
 
 3. EmoEvent: dataset composed of tweets from the Twitter platform which exhibit different emotions in relation to various events. https://github.com/fmplaza/EmoEvent
 
-Contact: akoufakou@fgcu.edu
-
+_Contact: akoufakou [at] fgcu [dot] edu_
