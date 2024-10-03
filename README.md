@@ -1,5 +1,5 @@
 ### This repository contains code for the article:
-"Data Augmentation for Emotion Detection in Small Imbalanced Text Data", to be presented at the 22nd IEEE International Conference on Machine Learning and Applications, 2023. Pre-print: 
+"Data Augmentation for Emotion Detection in Small Imbalanced Text Data", 22nd IEEE International Conference on Machine Learning and Applications ICMLA, 2023. Pre-print: 
 https://arxiv.org/abs/2310.17015
 
 Authors: Anna Koufakou, Diego Grisales, Ragy Costa de jesus, Oscar Fox 
