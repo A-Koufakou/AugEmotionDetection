@@ -16,3 +16,15 @@ https://ieeexplore.ieee.org/abstract/document/10459766
 3. EmoEvent: dataset composed of tweets from the Twitter platform which exhibit different emotions in relation to various events. https://github.com/fmplaza/EmoEvent
 
 _Contact: akoufakou [at] fgcu [dot] edu_
+
+**Citation:**
+```
+@inproceedings{koufakou2023data,
+  title={Data Augmentation for Emotion Detection in Small Imbalanced Text Data},
+  author={Koufakou, Anna and Grisales, Diego and Costa de jesus, Ragy and Fox, Oscar},
+  booktitle={2023 International Conference on Machine Learning and Applications (ICMLA)},
+  pages={1508--1513},
+  year={2023},
+  organization={IEEE}
+}
+```
